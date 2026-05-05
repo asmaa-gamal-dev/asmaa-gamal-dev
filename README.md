@@ -31,15 +31,6 @@
 
 <hr/>
 
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaa-gamal-dev&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
-
-<hr/>
-
 <h2>🤝 Connect with Me</h2>
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK" target="_blank">
