@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmaa Gamal</h1>
-<h3 align="center">Frontend Developer from Egypt</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
